@@ -1,4 +1,4 @@
-# energstarnight-bot
+# energystarnight-bot
 
 ##### Source Code
 https://github.com/mirioeggmann/energyair-bot
@@ -23,8 +23,8 @@ RUN apt install -y git
 2. Enter the following commands:
 ```bash
 git clone "https://github.com/rohano420/energystarnight-bot.git"
-cd energstarnight-bot
-docker build energstarnight-bot --no-cache -t energstarnight-bot
+cd energystarnight-bot
+docker build energystarnight-bot --no-cache -t energystarnight-bot
 ```
 ---
 

@@ -21,7 +21,7 @@ RUN apt install -y git
 ```
 2. Enter the following commands:
 ```bash
-git clone "https://github.com/mirioeggmann/energystarnight.git"
+git clone "https://github.com/rohano420/energstarnight-bot.git"
 cd energstarnight-bot
 docker build energstarnight-bot --no-cache -t energstarnight-bot
 ```

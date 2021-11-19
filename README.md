@@ -12,7 +12,7 @@ The energstarnight-bot should only be used for educational purposes. Otherwise i
 - **code 4:** Wrong logo chosen
 - **code 5:** Won!
 
-#### Docker
+### Docker
 ##### Setup
 1. Install git
 ```bash
